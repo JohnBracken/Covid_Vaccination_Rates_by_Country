@@ -1,0 +1,862 @@
+[
+    {
+        "country": "Gibraltar",
+        "max_vaxxed_people_per_hundred": 116.27
+    },
+    {
+        "country": "Malta",
+        "max_vaxxed_people_per_hundred": 91.67
+    },
+    {
+        "country": "Pitcairn",
+        "max_vaxxed_people_per_hundred": 76.6
+    },
+    {
+        "country": "Iceland",
+        "max_vaxxed_people_per_hundred": 74.82
+    },
+    {
+        "country": "Cayman Islands",
+        "max_vaxxed_people_per_hundred": 73.82
+    },
+    {
+        "country": "United Arab Emirates",
+        "max_vaxxed_people_per_hundred": 73.0
+    },
+    {
+        "country": "Singapore",
+        "max_vaxxed_people_per_hundred": 71.26
+    },
+    {
+        "country": "Isle of Man",
+        "max_vaxxed_people_per_hundred": 71.23
+    },
+    {
+        "country": "San Marino",
+        "max_vaxxed_people_per_hundred": 69.83
+    },
+    {
+        "country": "Seychelles",
+        "max_vaxxed_people_per_hundred": 69.71
+    },
+    {
+        "country": "Uruguay",
+        "max_vaxxed_people_per_hundred": 69.35
+    },
+    {
+        "country": "Jersey",
+        "max_vaxxed_people_per_hundred": 69.25
+    },
+    {
+        "country": "Chile",
+        "max_vaxxed_people_per_hundred": 68.15
+    },
+    {
+        "country": "Faeroe Islands",
+        "max_vaxxed_people_per_hundred": 68.12
+    },
+    {
+        "country": "Wales",
+        "max_vaxxed_people_per_hundred": 67.64
+    },
+    {
+        "country": "Nauru",
+        "max_vaxxed_people_per_hundred": 66.93
+    },
+    {
+        "country": "Qatar",
+        "max_vaxxed_people_per_hundred": 66.27
+    },
+    {
+        "country": "Bermuda",
+        "max_vaxxed_people_per_hundred": 66.2
+    },
+    {
+        "country": "Belgium",
+        "max_vaxxed_people_per_hundred": 66.05
+    },
+    {
+        "country": "Denmark",
+        "max_vaxxed_people_per_hundred": 65.99
+    },
+    {
+        "country": "Portugal",
+        "max_vaxxed_people_per_hundred": 64.75
+    },
+    {
+        "country": "Canada",
+        "max_vaxxed_people_per_hundred": 64.22
+    },
+    {
+        "country": "Spain",
+        "max_vaxxed_people_per_hundred": 63.72
+    },
+    {
+        "country": "Aruba",
+        "max_vaxxed_people_per_hundred": 63.47
+    },
+    {
+        "country": "Scotland",
+        "max_vaxxed_people_per_hundred": 63.44
+    },
+    {
+        "country": "Bahrain",
+        "max_vaxxed_people_per_hundred": 63.03
+    },
+    {
+        "country": "Israel",
+        "max_vaxxed_people_per_hundred": 62.64
+    },
+    {
+        "country": "Ireland",
+        "max_vaxxed_people_per_hundred": 62.44
+    },
+    {
+        "country": "Mongolia",
+        "max_vaxxed_people_per_hundred": 61.69
+    },
+    {
+        "country": "Bhutan",
+        "max_vaxxed_people_per_hundred": 61.65
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "max_vaxxed_people_per_hundred": 60.66
+    },
+    {
+        "country": "England",
+        "max_vaxxed_people_per_hundred": 60.07
+    },
+    {
+        "country": "United Kingdom",
+        "max_vaxxed_people_per_hundred": 59.96
+    },
+    {
+        "country": "Netherlands",
+        "max_vaxxed_people_per_hundred": 59.8
+    },
+    {
+        "country": "Anguilla",
+        "max_vaxxed_people_per_hundred": 59.76
+    },
+    {
+        "country": "Northern Ireland",
+        "max_vaxxed_people_per_hundred": 59.08
+    },
+    {
+        "country": "Saint Helena",
+        "max_vaxxed_people_per_hundred": 58.16
+    },
+    {
+        "country": "Italy",
+        "max_vaxxed_people_per_hundred": 57.24
+    },
+    {
+        "country": "Germany",
+        "max_vaxxed_people_per_hundred": 57.08
+    },
+    {
+        "country": "Hungary",
+        "max_vaxxed_people_per_hundred": 56.94
+    },
+    {
+        "country": "Austria",
+        "max_vaxxed_people_per_hundred": 55.69
+    },
+    {
+        "country": "Cyprus",
+        "max_vaxxed_people_per_hundred": 55.61
+    },
+    {
+        "country": "Luxembourg",
+        "max_vaxxed_people_per_hundred": 55.27
+    },
+    {
+        "country": "Maldives",
+        "max_vaxxed_people_per_hundred": 54.74
+    },
+    {
+        "country": "Cook Islands",
+        "max_vaxxed_people_per_hundred": 54.53
+    },
+    {
+        "country": "China",
+        "max_vaxxed_people_per_hundred": 53.99
+    },
+    {
+        "country": "Greece",
+        "max_vaxxed_people_per_hundred": 53.0
+    },
+    {
+        "country": "Greenland",
+        "max_vaxxed_people_per_hundred": 52.84
+    },
+    {
+        "country": "France",
+        "max_vaxxed_people_per_hundred": 52.58
+    },
+    {
+        "country": "Liechtenstein",
+        "max_vaxxed_people_per_hundred": 52.51
+    },
+    {
+        "country": "Sint Maarten (Dutch part)",
+        "max_vaxxed_people_per_hundred": 51.97
+    },
+    {
+        "country": "Curacao",
+        "max_vaxxed_people_per_hundred": 51.61
+    },
+    {
+        "country": "Falkland Islands",
+        "max_vaxxed_people_per_hundred": 50.96
+    },
+    {
+        "country": "Lithuania",
+        "max_vaxxed_people_per_hundred": 50.62
+    },
+    {
+        "country": "United States",
+        "max_vaxxed_people_per_hundred": 50.44
+    },
+    {
+        "country": "Czechia",
+        "max_vaxxed_people_per_hundred": 49.99
+    },
+    {
+        "country": "Monaco",
+        "max_vaxxed_people_per_hundred": 49.96
+    },
+    {
+        "country": "Switzerland",
+        "max_vaxxed_people_per_hundred": 49.68
+    },
+    {
+        "country": "Poland",
+        "max_vaxxed_people_per_hundred": 48.1
+    },
+    {
+        "country": "Sweden",
+        "max_vaxxed_people_per_hundred": 47.45
+    },
+    {
+        "country": "Andorra",
+        "max_vaxxed_people_per_hundred": 46.04
+    },
+    {
+        "country": "Mauritius",
+        "max_vaxxed_people_per_hundred": 45.31
+    },
+    {
+        "country": "Cambodia",
+        "max_vaxxed_people_per_hundred": 43.37
+    },
+    {
+        "country": "Finland",
+        "max_vaxxed_people_per_hundred": 42.9
+    },
+    {
+        "country": "Wallis and Futuna",
+        "max_vaxxed_people_per_hundred": 41.91
+    },
+    {
+        "country": "Dominican Republic",
+        "max_vaxxed_people_per_hundred": 41.14
+    },
+    {
+        "country": "Slovenia",
+        "max_vaxxed_people_per_hundred": 41.07
+    },
+    {
+        "country": "Norway",
+        "max_vaxxed_people_per_hundred": 41.0
+    },
+    {
+        "country": "Serbia",
+        "max_vaxxed_people_per_hundred": 40.52
+    },
+    {
+        "country": "Turkey",
+        "max_vaxxed_people_per_hundred": 39.29
+    },
+    {
+        "country": "Hong Kong",
+        "max_vaxxed_people_per_hundred": 39.17
+    },
+    {
+        "country": "Estonia",
+        "max_vaxxed_people_per_hundred": 39.16
+    },
+    {
+        "country": "Macao",
+        "max_vaxxed_people_per_hundred": 39.01
+    },
+    {
+        "country": "Slovakia",
+        "max_vaxxed_people_per_hundred": 38.45
+    },
+    {
+        "country": "Latvia",
+        "max_vaxxed_people_per_hundred": 38.31
+    },
+    {
+        "country": "British Virgin Islands",
+        "max_vaxxed_people_per_hundred": 37.83
+    },
+    {
+        "country": "Japan",
+        "max_vaxxed_people_per_hundred": 37.81
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "max_vaxxed_people_per_hundred": 37.78
+    },
+    {
+        "country": "Croatia",
+        "max_vaxxed_people_per_hundred": 37.75
+    },
+    {
+        "country": "Northern Cyprus",
+        "max_vaxxed_people_per_hundred": 37.28
+    },
+    {
+        "country": "Malaysia",
+        "max_vaxxed_people_per_hundred": 34.17
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "max_vaxxed_people_per_hundred": 32.7
+    },
+    {
+        "country": "Saudi Arabia",
+        "max_vaxxed_people_per_hundred": 32.67
+    },
+    {
+        "country": "Morocco",
+        "max_vaxxed_people_per_hundred": 31.54
+    },
+    {
+        "country": "El Salvador",
+        "max_vaxxed_people_per_hundred": 30.73
+    },
+    {
+        "country": "Barbados",
+        "max_vaxxed_people_per_hundred": 29.81
+    },
+    {
+        "country": "French Polynesia",
+        "max_vaxxed_people_per_hundred": 29.12
+    },
+    {
+        "country": "Dominica",
+        "max_vaxxed_people_per_hundred": 27.41
+    },
+    {
+        "country": "Montserrat",
+        "max_vaxxed_people_per_hundred": 27.37
+    },
+    {
+        "country": "Ecuador",
+        "max_vaxxed_people_per_hundred": 27.12
+    },
+    {
+        "country": "Colombia",
+        "max_vaxxed_people_per_hundred": 27.02
+    },
+    {
+        "country": "Cuba",
+        "max_vaxxed_people_per_hundred": 26.81
+    },
+    {
+        "country": "Montenegro",
+        "max_vaxxed_people_per_hundred": 26.2
+    },
+    {
+        "country": "Romania",
+        "max_vaxxed_people_per_hundred": 25.95
+    },
+    {
+        "country": "Jordan",
+        "max_vaxxed_people_per_hundred": 25.15
+    },
+    {
+        "country": "Kazakhstan",
+        "max_vaxxed_people_per_hundred": 25.13
+    },
+    {
+        "country": "Brazil",
+        "max_vaxxed_people_per_hundred": 24.06
+    },
+    {
+        "country": "Fiji",
+        "max_vaxxed_people_per_hundred": 23.59
+    },
+    {
+        "country": "Azerbaijan",
+        "max_vaxxed_people_per_hundred": 23.42
+    },
+    {
+        "country": "New Caledonia",
+        "max_vaxxed_people_per_hundred": 22.93
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "max_vaxxed_people_per_hundred": 22.9
+    },
+    {
+        "country": "Mexico",
+        "max_vaxxed_people_per_hundred": 22.8
+    },
+    {
+        "country": "Argentina",
+        "max_vaxxed_people_per_hundred": 22.49
+    },
+    {
+        "country": "Russia",
+        "max_vaxxed_people_per_hundred": 22.33
+    },
+    {
+        "country": "North Macedonia",
+        "max_vaxxed_people_per_hundred": 22.18
+    },
+    {
+        "country": "Kuwait",
+        "max_vaxxed_people_per_hundred": 21.62
+    },
+    {
+        "country": "Sri Lanka",
+        "max_vaxxed_people_per_hundred": 21.56
+    },
+    {
+        "country": "Australia",
+        "max_vaxxed_people_per_hundred": 21.05
+    },
+    {
+        "country": "Peru",
+        "max_vaxxed_people_per_hundred": 20.99
+    },
+    {
+        "country": "Guernsey",
+        "max_vaxxed_people_per_hundred": 20.31
+    },
+    {
+        "country": "Laos",
+        "max_vaxxed_people_per_hundred": 20.01
+    },
+    {
+        "country": "Albania",
+        "max_vaxxed_people_per_hundred": 19.81
+    },
+    {
+        "country": "Panama",
+        "max_vaxxed_people_per_hundred": 19.61
+    },
+    {
+        "country": "South Korea",
+        "max_vaxxed_people_per_hundred": 19.5
+    },
+    {
+        "country": "Guyana",
+        "max_vaxxed_people_per_hundred": 18.71
+    },
+    {
+        "country": "Tonga",
+        "max_vaxxed_people_per_hundred": 17.7
+    },
+    {
+        "country": "New Zealand",
+        "max_vaxxed_people_per_hundred": 17.59
+    },
+    {
+        "country": "Bolivia",
+        "max_vaxxed_people_per_hundred": 17.53
+    },
+    {
+        "country": "Costa Rica",
+        "max_vaxxed_people_per_hundred": 16.94
+    },
+    {
+        "country": "Samoa",
+        "max_vaxxed_people_per_hundred": 16.22
+    },
+    {
+        "country": "Bulgaria",
+        "max_vaxxed_people_per_hundred": 15.53
+    },
+    {
+        "country": "Belize",
+        "max_vaxxed_people_per_hundred": 15.26
+    },
+    {
+        "country": "Grenada",
+        "max_vaxxed_people_per_hundred": 15.25
+    },
+    {
+        "country": "Suriname",
+        "max_vaxxed_people_per_hundred": 14.82
+    },
+    {
+        "country": "Moldova",
+        "max_vaxxed_people_per_hundred": 14.49
+    },
+    {
+        "country": "Lebanon",
+        "max_vaxxed_people_per_hundred": 14.47
+    },
+    {
+        "country": "Saint Lucia",
+        "max_vaxxed_people_per_hundred": 14.19
+    },
+    {
+        "country": "Tunisia",
+        "max_vaxxed_people_per_hundred": 13.3
+    },
+    {
+        "country": "Oman",
+        "max_vaxxed_people_per_hundred": 12.7
+    },
+    {
+        "country": "Bahamas",
+        "max_vaxxed_people_per_hundred": 12.1
+    },
+    {
+        "country": "Nepal",
+        "max_vaxxed_people_per_hundred": 11.98
+    },
+    {
+        "country": "Brunei",
+        "max_vaxxed_people_per_hundred": 11.93
+    },
+    {
+        "country": "Philippines",
+        "max_vaxxed_people_per_hundred": 11.63
+    },
+    {
+        "country": "Belarus",
+        "max_vaxxed_people_per_hundred": 11.6
+    },
+    {
+        "country": "Indonesia",
+        "max_vaxxed_people_per_hundred": 10.43
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "max_vaxxed_people_per_hundred": 9.99
+    },
+    {
+        "country": "Honduras",
+        "max_vaxxed_people_per_hundred": 9.76
+    },
+    {
+        "country": "Equatorial Guinea",
+        "max_vaxxed_people_per_hundred": 9.7
+    },
+    {
+        "country": "Kosovo",
+        "max_vaxxed_people_per_hundred": 9.48
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "max_vaxxed_people_per_hundred": 9.04
+    },
+    {
+        "country": "Eswatini",
+        "max_vaxxed_people_per_hundred": 8.86
+    },
+    {
+        "country": "India",
+        "max_vaxxed_people_per_hundred": 8.83
+    },
+    {
+        "country": "Timor",
+        "max_vaxxed_people_per_hundred": 8.79
+    },
+    {
+        "country": "Zimbabwe",
+        "max_vaxxed_people_per_hundred": 8.44
+    },
+    {
+        "country": "Palestine",
+        "max_vaxxed_people_per_hundred": 8.43
+    },
+    {
+        "country": "Thailand",
+        "max_vaxxed_people_per_hundred": 7.49
+    },
+    {
+        "country": "South Africa",
+        "max_vaxxed_people_per_hundred": 7.08
+    },
+    {
+        "country": "Botswana",
+        "max_vaxxed_people_per_hundred": 6.87
+    },
+    {
+        "country": "Cape Verde",
+        "max_vaxxed_people_per_hundred": 6.83
+    },
+    {
+        "country": "Ukraine",
+        "max_vaxxed_people_per_hundred": 6.38
+    },
+    {
+        "country": "Bonaire Sint Eustatius and Saba",
+        "max_vaxxed_people_per_hundred": 6.35
+    },
+    {
+        "country": "Georgia",
+        "max_vaxxed_people_per_hundred": 6.15
+    },
+    {
+        "country": "Pakistan",
+        "max_vaxxed_people_per_hundred": 5.6
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "max_vaxxed_people_per_hundred": 5.42
+    },
+    {
+        "country": "Nicaragua",
+        "max_vaxxed_people_per_hundred": 5.4
+    },
+    {
+        "country": "Gambia",
+        "max_vaxxed_people_per_hundred": 5.01
+    },
+    {
+        "country": "Comoros",
+        "max_vaxxed_people_per_hundred": 4.76
+    },
+    {
+        "country": "Jamaica",
+        "max_vaxxed_people_per_hundred": 4.56
+    },
+    {
+        "country": "Kyrgyzstan",
+        "max_vaxxed_people_per_hundred": 4.38
+    },
+    {
+        "country": "Paraguay",
+        "max_vaxxed_people_per_hundred": 4.02
+    },
+    {
+        "country": "Venezuela",
+        "max_vaxxed_people_per_hundred": 3.87
+    },
+    {
+        "country": "Iran",
+        "max_vaxxed_people_per_hundred": 3.75
+    },
+    {
+        "country": "Uzbekistan",
+        "max_vaxxed_people_per_hundred": 3.68
+    },
+    {
+        "country": "Bangladesh",
+        "max_vaxxed_people_per_hundred": 3.29
+    },
+    {
+        "country": "Namibia",
+        "max_vaxxed_people_per_hundred": 3.1
+    },
+    {
+        "country": "Rwanda",
+        "max_vaxxed_people_per_hundred": 3.03
+    },
+    {
+        "country": "Guatemala",
+        "max_vaxxed_people_per_hundred": 2.99
+    },
+    {
+        "country": "Taiwan",
+        "max_vaxxed_people_per_hundred": 2.87
+    },
+    {
+        "country": "Myanmar",
+        "max_vaxxed_people_per_hundred": 2.81
+    },
+    {
+        "country": "Guinea",
+        "max_vaxxed_people_per_hundred": 2.62
+    },
+    {
+        "country": "Armenia",
+        "max_vaxxed_people_per_hundred": 2.55
+    },
+    {
+        "country": "Angola",
+        "max_vaxxed_people_per_hundred": 2.21
+    },
+    {
+        "country": "Gabon",
+        "max_vaxxed_people_per_hundred": 2.19
+    },
+    {
+        "country": "Egypt",
+        "max_vaxxed_people_per_hundred": 2.11
+    },
+    {
+        "country": "Solomon Islands",
+        "max_vaxxed_people_per_hundred": 2.1
+    },
+    {
+        "country": "Djibouti",
+        "max_vaxxed_people_per_hundred": 2.08
+    },
+    {
+        "country": "Senegal",
+        "max_vaxxed_people_per_hundred": 2.04
+    },
+    {
+        "country": "Niue",
+        "max_vaxxed_people_per_hundred": 1.98
+    },
+    {
+        "country": "Togo",
+        "max_vaxxed_people_per_hundred": 1.86
+    },
+    {
+        "country": "Mozambique",
+        "max_vaxxed_people_per_hundred": 1.83
+    },
+    {
+        "country": "Congo",
+        "max_vaxxed_people_per_hundred": 1.72
+    },
+    {
+        "country": "Lesotho",
+        "max_vaxxed_people_per_hundred": 1.69
+    },
+    {
+        "country": "Algeria",
+        "max_vaxxed_people_per_hundred": 1.65
+    },
+    {
+        "country": "Vietnam",
+        "max_vaxxed_people_per_hundred": 1.44
+    },
+    {
+        "country": "Malawi",
+        "max_vaxxed_people_per_hundred": 1.39
+    },
+    {
+        "country": "Kenya",
+        "max_vaxxed_people_per_hundred": 1.39
+    },
+    {
+        "country": "Tajikistan",
+        "max_vaxxed_people_per_hundred": 1.36
+    },
+    {
+        "country": "Ghana",
+        "max_vaxxed_people_per_hundred": 1.31
+    },
+    {
+        "country": "Iraq",
+        "max_vaxxed_people_per_hundred": 1.23
+    },
+    {
+        "country": "Zambia",
+        "max_vaxxed_people_per_hundred": 1.17
+    },
+    {
+        "country": "Nigeria",
+        "max_vaxxed_people_per_hundred": 0.69
+    },
+    {
+        "country": "Vanuatu",
+        "max_vaxxed_people_per_hundred": 0.56
+    },
+    {
+        "country": "Afghanistan",
+        "max_vaxxed_people_per_hundred": 0.56
+    },
+    {
+        "country": "Somalia",
+        "max_vaxxed_people_per_hundred": 0.55
+    },
+    {
+        "country": "Mauritania",
+        "max_vaxxed_people_per_hundred": 0.49
+    },
+    {
+        "country": "Mali",
+        "max_vaxxed_people_per_hundred": 0.43
+    },
+    {
+        "country": "Sudan",
+        "max_vaxxed_people_per_hundred": 0.42
+    },
+    {
+        "country": "Tanzania",
+        "max_vaxxed_people_per_hundred": 0.35
+    },
+    {
+        "country": "Niger",
+        "max_vaxxed_people_per_hundred": 0.35
+    },
+    {
+        "country": "Liberia",
+        "max_vaxxed_people_per_hundred": 0.29
+    },
+    {
+        "country": "Central African Republic",
+        "max_vaxxed_people_per_hundred": 0.29
+    },
+    {
+        "country": "Cameroon",
+        "max_vaxxed_people_per_hundred": 0.26
+    },
+    {
+        "country": "Papua New Guinea",
+        "max_vaxxed_people_per_hundred": 0.24
+    },
+    {
+        "country": "Sierra Leone",
+        "max_vaxxed_people_per_hundred": 0.19
+    },
+    {
+        "country": "Benin",
+        "max_vaxxed_people_per_hundred": 0.18
+    },
+    {
+        "country": "Turkmenistan",
+        "max_vaxxed_people_per_hundred": 0.16
+    },
+    {
+        "country": "Guinea-Bissau",
+        "max_vaxxed_people_per_hundred": 0.12
+    },
+    {
+        "country": "Burkina Faso",
+        "max_vaxxed_people_per_hundred": 0.08
+    },
+    {
+        "country": "Chad",
+        "max_vaxxed_people_per_hundred": 0.07
+    },
+    {
+        "country": "Syria",
+        "max_vaxxed_people_per_hundred": 0.05
+    },
+    {
+        "country": "Yemen",
+        "max_vaxxed_people_per_hundred": 0.04
+    },
+    {
+        "country": "South Sudan",
+        "max_vaxxed_people_per_hundred": 0.04
+    },
+    {
+        "country": "Uganda",
+        "max_vaxxed_people_per_hundred": 0.01
+    },
+    {
+        "country": "Democratic Republic of Congo",
+        "max_vaxxed_people_per_hundred": 0.0
+    },
+    {
+        "country": "Haiti",
+        "max_vaxxed_people_per_hundred": 0.0
+    }
+]
