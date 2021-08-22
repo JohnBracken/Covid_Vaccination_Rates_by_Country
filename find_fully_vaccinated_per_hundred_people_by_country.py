@@ -1,3 +1,5 @@
+# Script to find vaccination percentages by country.
+
 import csv
 import json
 import operator
