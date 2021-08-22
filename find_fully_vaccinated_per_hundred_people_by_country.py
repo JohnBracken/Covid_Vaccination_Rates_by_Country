@@ -69,8 +69,5 @@ for m in country_list:
 
 max_vax_list = sorted(max_vax_list, key=operator.itemgetter('max_vaxxed_people_per_hundred'), reverse=True)
 
-#with open('country_vaccinations.json', 'w') as fout:
-#    json.dump(vax_records, fout, indent=4)
-
 with open('max_vaccination_rates_by_country.json', 'w') as gout:
     json.dump(max_vax_list, gout, indent=4)
